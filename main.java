@@ -33,7 +33,7 @@ public class TodoList {
             todoItems[count] = new TodoItem(description);
             count++;
         } else {
-            System.out.println("Todo list is full!");
+            System.out.println("The Todo list is full!");
         }
     }
     
